@@ -1,0 +1,5 @@
+In this assignment, you are asked to implement a simple P2P file sharing application using Python socket programming. This application is a much simplified version of real world P2P systems, like Gnutella and BitTorrent.
+In this application, multiple peers form a fully autonomous distributed system without relying on a centralized server. Instead, each peer acts as both a client and a server. The client programs upload and download files to and from other peers, while the server programs collaboratively serve file downloading via storing and searching files in the distributed system, all under decentralized control. You are also required to mimic the dynamics of the real-world P2P systems by simulating peers leaving and joining the system.
+
+II. DETAILED DESIGN OF THE APPLICATION
+The P2P network that we are considering is a fully connected topology where all peers are interconnected, i.e., every peer is given the complete peer list upon

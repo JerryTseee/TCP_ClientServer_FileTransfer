@@ -1,0 +1,52 @@
+DeepSeek, a Chinese artificial intelligence (AI) startup, made headlines worldwide after it topped app download charts and caused US tech stocks to sink.
+
+In January, it released its latest model, DeepSeek R1, which it said rivalled technology developed by ChatGPT-maker OpenAI in its capabilities, while costing far less to create.
+
+Its popularity and potential rattled investors, wiping billions of dollars off the market value of chip giant Nvidia - and called into question whether American firms would dominate the booming artificial intelligence (AI) market, as many assumed they would.
+
+President Donald Trump described it as a "wake-up call" for US companies.
+
+Be careful with DeepSeek, Australia says - so is it safe to use?
+DeepSeek vs ChatGPT - how do they compare?
+China's DeepSeek AI shakes industry and dents America's swagger
+What is artificial intelligence?
+To understand why DeepSeek has made such a stir, it helps to start with AI and its capability to make a computer seem like a person.
+
+A machine uses the technology to learn and solve problems, typically by being trained on massive amounts of information and recognising patterns.
+
+The end result is software that can have conversations like a person or predict people's shopping habits.
+
+In recent years, it has become best known as the tech behind chatbots such as ChatGPT - and DeepSeek - also known as generative AI.
+
+These programs again learn from huge swathes of data, including online text and images, to be able to make new content.
+
+But these tools can also create falsehoods and often repeat the biases contained within their training data.
+
+Millions of people use tools such as ChatGPT to help them with everyday tasks like writing emails, summarising text, and answering questions - and others even use them to help with basic coding and studying.
+
+What is DeepSeek?
+DeepSeek is the name of a free AI-powered chatbot, which looks, feels and works very much like ChatGPT.
+
+That means it's used for many of the same tasks, though exactly how well it works compared to its rivals is up for debate.
+
+It is reportedly as powerful as OpenAI's o1 model - released at the end of last year - in tasks including mathematics and coding.
+
+Like o1, R1 is a "reasoning" model. These models produce responses incrementally, simulating how humans reason through problems or ideas.
+
+Deepseek says it has been able to do this cheaply - researchers behind it claim it cost $6m (£4.8m) to train, a fraction of the "over $100m" alluded to by OpenAI boss Sam Altman when discussing GPT-4.
+
+It has also seemingly be able to minimise the impact of US restrictions on the most powerful chips reaching China.
+
+DeepSeek's founder reportedly built up a store of Nvidia A100 chips, which have been banned from export to China since September 2022. Some experts believe he paired these chips with cheaper, less sophisticated ones - ending up with a much more efficient process.
+
+DeepSeek also uses less memory than its rivals, ultimately reducing the cost to perform tasks for users.
+
+That combination of performance and lower cost helped DeepSeek's AI assistant become the most-downloaded free app on Apple's App Store when it was released in the US.
+
+The same day, it was hit with "large-scale malicious attacks", the company said, causing the company to temporary limit registrations.
+
+Its website also experienced outages.
+
+Like many other Chinese AI models - Baidu's Ernie or Doubao by ByteDance - DeepSeek is trained to avoid politically sensitive questions.
+
+When the BBC asked the app what happened at Tiananmen Square on 4 June 1989, DeepSeek did not give any details about the massacre, a taboo topic in China, which is subject to government censorship.
